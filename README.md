@@ -43,8 +43,9 @@ Antes de empezar, asegúrate de tener estas herramientas. Son estándar para el 
 
 Abre tu terminal, navega a la carpeta donde quieras guardar el proyecto y ejecuta:
 ```bash
-git clone https://github.com/rychard-rojas/Botardo-Samsung.git
-cd Botardo-Samsung
+git clone https://github.com/rychard-rojas/Edubot.git
+
+# Trabajar dentro de la carpeta Desktop/EduMood
 ```
 
 ### Paso 2: Crear y Activar un Entorno Virtual
