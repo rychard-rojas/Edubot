@@ -87,14 +87,8 @@ El bot necesita "llaves" secretas para conectarse a Telegram y a la IA de Groq.
 
     ```
     # .env
-    TELEGRAM_TOKEN="AQUI_VA_TU_TOKEN_DE_TELEGRAM"
     GROQ_API_KEY="AQUI_VA_TU_CLAVE_DE_GROQ"
     ```
-
-*   **Para obtener el `TELEGRAM_TOKEN`:**
-    1.  Habla con el bot oficial de Telegram llamado [@BotFather](https://t.me/BotFather).
-    2.  Escribe el comando `/newbot` y sigue sus instrucciones.
-    3.  Al final, te dará un token. ¡Cópialo y pégalo aquí!
 
 *   **Para obtener la `GROQ_API_KEY`:**
     1.  Crea una cuenta gratuita en [GroqCloud](https://console.groq.com/keys).
