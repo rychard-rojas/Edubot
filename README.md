@@ -45,7 +45,7 @@ Abre tu terminal, navega a la carpeta donde quieras guardar el proyecto y ejecut
 ```bash
 git clone https://github.com/rychard-rojas/Edubot.git
 
-# Trabajar dentro de la carpeta Desktop/EduMood
+# Trabajar dentro de la carpeta Desktop/EduMoodBot
 ```
 
 ### Paso 2: Crear y Activar un Entorno Virtual
